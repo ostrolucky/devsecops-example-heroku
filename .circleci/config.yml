@@ -45,3 +45,4 @@ workflows:
     jobs:
       - deploy
       - sast
+      - dast
